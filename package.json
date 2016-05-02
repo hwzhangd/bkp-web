@@ -1,0 +1,21 @@
+{
+  "name": "bkp-web",
+  "version": "1.0.0",
+  "description": "bkp web",
+  "main": "index.js",
+  "scripts": {
+    "start": "gulp serve",
+    "build": "gulp"
+  },
+  "keywords": [
+    "web"
+  ],
+  "author": "t-l",
+  "license": "ISC",
+  "dependencies": {
+    "browser-sync": "^2.12.3",
+    "glob": "^7.0.3",
+    "vue": "^1.0.21-csp",
+    "webpack": "^1.13.0"
+  }
+}
